@@ -1,2 +1,2 @@
 # sohot
-Hot Stackoverflow questions
+Hot Stackoverflow (SO) questions 
